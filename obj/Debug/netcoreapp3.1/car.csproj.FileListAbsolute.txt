@@ -1,0 +1,10 @@
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/car/obj/Debug/netcoreapp3.1/car.csprojAssemblyReference.cache
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/car/obj/Debug/netcoreapp3.1/car.AssemblyInfoInputs.cache
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/car/obj/Debug/netcoreapp3.1/car.AssemblyInfo.cs
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/car/bin/Debug/netcoreapp3.1/car.deps.json
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/car/bin/Debug/netcoreapp3.1/car.runtimeconfig.json
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/car/bin/Debug/netcoreapp3.1/car.runtimeconfig.dev.json
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/car/bin/Debug/netcoreapp3.1/car.dll
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/car/bin/Debug/netcoreapp3.1/car.pdb
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/car/obj/Debug/netcoreapp3.1/car.dll
+/Users/lmschless/Documents/Code stuff/C#_practice/Epicodus/car/obj/Debug/netcoreapp3.1/car.pdb
